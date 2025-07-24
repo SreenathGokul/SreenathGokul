@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 👀 About Me
 
-I’m Sreenath Gokul, a 3rd-year B.Tech IT student at Sri Sakthi Institute of Technology. I’m passionate about technology and continuously looking to expand my skill set.
+I’m Sreenath Gokul, a 4th-year B.Tech IT student at Sri Sakthi Institute of Technology. I’m passionate about technology and continuously looking to expand my skill set.
 
 ## 🌱 Currently Learning
 
