@@ -18,6 +18,7 @@ I’m interested in collaborating on projects related to Java development, softw
 
 You can contact me through:
 - [LinkedIn](https://www.linkedin.com/in/sreenath-gokul?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1knEehn1Rj6a%2BSlzLha2fQ%3D%3D)
+- [LeetCode](https://leetcode.com/u/Sreenath_07/)
 
 ## 😄 Pronouns
 
